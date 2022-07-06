@@ -2,7 +2,7 @@
 # TITLE - SWR TEST PROBLEM 5
 # DATASET 1A - DIMENSIONS AND PRELIMINARIES
 # NREACHES ISWRONLY ISWRCBC ISWRPRGF ISWRPSTG ISWRPQAQ ISWRPQM ISWRPSTR ISWRFRN Option                      
-        5        0       0     -101      102     -103       0        0       0   SWROPTIONS # AUX CONCENTRATION AUX TVAR1       
+        5        0       0     -101      102     -103       0        0       0   SWROPTIONS # AUX CONCENTRATION AUX TVAR1
 
 # DATASET 1B - SWR1 OPTIONS
 PRINT_SWR_TO_SCREEN
@@ -27,11 +27,11 @@ END
 # DATASET 4 - REACH LOCATION DATA
 #                   LAY  ROW  COL
 #IREACH IEQN IRGNUM KRCH IRCH JRCH   RLEN
-   1    1     01    1    152    65  304.8
-   2    1     01    1    153    65  304.8
-   3    1     01    1    154    65  304.8
-   4    1     01    1    155    65  304.8
-   5    1     01    1    156    65  304.8
+   1    4     01    1     161  62  304.8
+   2    4     02    1     162  62 304.8
+   3    4     03    1     163  61 304.8
+   4    4     04    1     164  61 304.8
+   5    4     05    1     165  61 304.8
 
    
 # DATASET 4B - REACH CONNECTIVITY
@@ -40,7 +40,7 @@ END
       2     2     3 1
       3     2     4 2
       4     2     5 3
-      5     1    4
+      5     1     4
 # DATASET 4C - TABULAR DIMENSION DATA
 # NTABS
 #     0
@@ -51,7 +51,7 @@ END
 
 # DATASET 5 - STRESS PERIOD 1
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]
-     1     5    0     0       1     5      0     5      1      # 5
+     1     5    0     0       1     5      1     5      1      # 5
 
 # DATASET 6 - BOUNDARY DATA
 # IBNDRCH ISWRBND
@@ -75,17 +75,17 @@ END
 
 # DATASET 9A - LATERAL INFLOW DATA
 # CONSTANT 1 (11e12.4)                   +1   
-1 50.0  
+1 1000
 
 # DATASET 10 - GEOMETRY ASSIGNMENT DATA
 # DATASET 8A
 INTERNAL
 #IGMODRCH IGEONUMR GZSHIFT 
        01        1     10.0
-       02        1     9.0
-       03        1     8.0
-       04        1     7.0
-       05        1     0.0
+       02        2     9.0
+       03        3     8.0
+       04        4     7.0
+       05        5     0.0
 
 
 # DATASET 11A - GEOMETRY DATA
@@ -96,7 +96,11 @@ INTERNAL
 #        4        5       1     0.25                                       2.00E-02           0.25
 #        7        3       1     0.03       8                               5.00E-01    
 # IGEONUM IGEOTYPE IGCNDOP GMANNING NGEOPTS GWIDTH GBELEV GSSLOPE    GCND      GLK GCNDLN GETEXTD
-    01    5         1      .25                                     9.2E+04                   0.25
+    1    5         1      .25                                     9.2E-04                   0.25
+    2    5         1      .25                                     9.2E-04                   0.25
+    3    5         1      .25                                     9.2E-04                   0.25
+    4    5         1      .25                                     9.2E-04                   0.25
+    5    5         1      .25                                     9.2E-04                   0.25
 
 
 # DATASET 11B - FOR IGEONUM 7
@@ -118,16 +122,23 @@ INTERNAL
  #      16       1
  #      18       1
  #      19       1
+5   1
 
+# DATASET 13A
+#ISTRRCH ISTRNUM ISTRCONN ISTRTYPE NSTRPTS STRCD STRCD2 STRCD3 STRINV STRINV2 STRWID STRWID2 STRLEN STRMAN STRVAL ISTRDIR
+      5       1       0        6          0.61           0.5  80              10.00                         0.01       0
+# DATASET 13B structure 1 reach 19
+#CSTROVAL ISTRORCH ISTROQCON ISTRLO STRCRIT STRCRITC  STRRT STRMAX    CSTRVAL
+ # 75   STAGE                     GE   0.750      0.0  108.0   0.25
 
 # DATASET 14A - REACH STAGE DATA
 INTERNAL
 #IRCHSTG  STAGE
-      01  1.537
-      02  1.537
-      03  1.537
-      04  1.537
-      05  1.537
+      01  79.537
+      02  79.537
+      03  78.537
+      04  77.537
+      05  76.537
 
 # DATASET 15 - AUX DATA
 # IBNDRCH CONCENTRATION         TVAR1
@@ -156,13 +167,14 @@ INTERNAL
      1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
 # OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
-1 10.0
+1 1000.0
 
 #DATASET 5 - STRESS PERIOD 003
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     -1      0      0      0      0      0      0
+     1      0     0      0      0      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-OPEN/CLOSE ref/Rainfall_003.ref 1.0 (FREE)   -1          #STRESS PERIOD 003
+#OPEN/CLOSE ref/Rainfall_003.ref 1.0 (FREE)   -1          #STRESS PERIOD 003
+1 100.0
 
 #DATASET 5 - STRESS PERIOD 004
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
