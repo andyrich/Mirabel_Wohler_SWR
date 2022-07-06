@@ -3,7 +3,7 @@
 # DATASET 1A - DIMENSIONS AND PRELIMINARIES
 # NREACHES ISWRONLY ISWRCBC ISWRPRGF ISWRPSTG ISWRPQAQ ISWRPQM ISWRPSTR ISWRFRN Option                      
         5        0       0     101      102     103       104     105       106   SWROPTIONS # AUX CONCENTRATION AUX TVAR1
-
+#        5        0       0     0      0     0       0     0       0   SWROPTIONS # AUX CONCENTRATION AUX TVAR1
 # DATASET 1B - SWR1 OPTIONS
 PRINT_SWR_TO_SCREEN
 #USE_TABFILES
@@ -75,7 +75,7 @@ END
 
 # DATASET 9A - LATERAL INFLOW DATA
 # CONSTANT 1 (11e12.4)                   +1   
-1 1000
+1 1000.
 
 # DATASET 10 - GEOMETRY ASSIGNMENT DATA
 # DATASET 8A
@@ -171,52 +171,59 @@ INTERNAL
 
 #DATASET 5 - STRESS PERIOD 003
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     0      0      0      0      0      0      0
+     1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-#OPEN/CLOSE ref/Rainfall_003.ref 1.0 (FREE)   -1          #STRESS PERIOD 003
-1 100.0
+# OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
+1 1000.0
 
 #DATASET 5 - STRESS PERIOD 004
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     -1      0      0      0      0      0      0
+     1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-OPEN/CLOSE ref/Rainfall_004.ref 1.0 (FREE)   -1          #STRESS PERIOD 004
+# OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
+1 1000.0
 
 #DATASET 5 - STRESS PERIOD 005
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     -1      0      0      0      0      0      0
+     1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-OPEN/CLOSE ref/Rainfall_005.ref 1.0 (FREE)   -1          #STRESS PERIOD 005
+# OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
+1 10000.0
 
 #DATASET 5 - STRESS PERIOD 006
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     -1      0      0      0      0      0      0
+     1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-OPEN/CLOSE ref/Rainfall_006.ref 1.0 (FREE)   -1          #STRESS PERIOD 006
+# OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
+1 10000.0
 
 #DATASET 5 - STRESS PERIOD 007
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     -1      0      0      0      0      0      0
+     1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-OPEN/CLOSE ref/Rainfall_007.ref 1.0 (FREE)   -1          #STRESS PERIOD 007
+# OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
+1 10000.0
 
 #DATASET 5 - STRESS PERIOD 008
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     -1      0      0      0      0      0      0
+     1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-OPEN/CLOSE ref/Rainfall_008.ref 1.0 (FREE)   -1          #STRESS PERIOD 008
+# OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
+1 10000.0
 
 #DATASET 5 - STRESS PERIOD 009
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     -1      0      0      0      0      0      0
+     1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-OPEN/CLOSE ref/Rainfall_009.ref 1.0 (FREE)   -1          #STRESS PERIOD 009
+# OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
+1 10000.0
 
 #DATASET 5 - STRESS PERIOD 010
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
-     1      0     -1      0      0      0      0      0      0
+     1      0     0      0      1      0      0      0      0
 # DATASET 7B - RAINFALL DATA
-OPEN/CLOSE ref/Rainfall_010.ref 1.0 (FREE)   -1          #STRESS PERIOD 010
+# OPEN/CLOSE ref/Rainfall_002.ref 1.0 (FREE)   -1          #STRESS PERIOD 002
+1 10000.0
 
 #DATASET 5 - STRESS PERIOD 011
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG
