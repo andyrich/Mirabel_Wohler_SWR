@@ -18,4 +18,10 @@ DATA         301 Results\SWRSample05.riv
 DATA         302 Results\SWRSample05.cnv
 DATA  731 lay1K.dat                
 DATA  732 lay2K.dat                  
-DATA  733 lay3T.dat  
+DATA  733 lay3T.dat
+DATA 101 Results\ISWRPRGF.dat
+DATA 102 Results\ISWRPSTG.dat
+DATA 103 Results\ISWRPQAQ.dat
+DATA 104 Results\ISWRPQM.dat
+DATA 105 Results\ISWRPSTR.dat
+DATA 106 Results\ISWRFRN.dat
