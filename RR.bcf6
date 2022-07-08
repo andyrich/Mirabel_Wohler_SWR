@@ -9,6 +9,6 @@
          0 1.000e-03(10e12.4)                   -1     Vcont Layer    2                       
          0 1.000e-01(10e12.4)                   -1     SECONDARY STORAGE Layer   2                     
          0 1.000e-03(10e12.4)                   -1     STORAGE COEFFICIENT Layer   3                                  
-OPEN/CLOSE lay3T.dat 1.00 (FREE)   -1          #model_top       733     1.000(10e12.4)                    -1     Transmissivity  Layer   3 #changed from Transmissivity to Hyd K
+OPEN/CLOSE lay3T.dat 1.00 (FREE)   -1          #    733     1.000(10e12.4)                    -1     Transmissivity  Layer   3 #changed from Transmissivity to Hyd K
       CONSTANT 0    0 1.000e-03(10e12.4)                   -1     Vcont Layer    3
       CONSTANT 0    0 1.000e-01(10e12.4)                   -1     SECONDARY STORAGE Layer   3
