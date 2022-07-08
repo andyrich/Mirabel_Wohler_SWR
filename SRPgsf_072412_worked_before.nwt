@@ -1,3 +1,8 @@
+#HEADTOL  FLUXTOL MAXITEROUT THICKFACT LINMETH IPRNWT IBOTAV OPTIONS DBDREDUCE DBDINCREASE DBDGAMMA MOMFACT BACKFLAG MAXBACKITER BACKTOL BACKREDUCE
+1.0E-3 1.5 30 1.0e-6  2  1 1 SPECIFIED 0.75 0.0001 0.0  0.10 0  30 1.05 0.9  linmeth=1 (GMRES); =2 (xmd)
+1 0 3 7 0 0.0 1 1.0E-4 1.0e-3  100   XMD
+
+
 # toldum,ftoldum,Mxiter,thetadum,akappadum,gammadum,amomentdum,Drymethod,Thickdum,Nonmeth,Consthick,Btrack,Numtrack,Btoldum,Breducdum
-0.04 2.0e5 500 1.0e-5  2  1 1  SPECIFIED 0.8 0.00001 0.000  0.0  0  30 2.0 0.9  (! Nonmeth=1 Newton) (linmeth=1 gmres)
-1 0 3 5 1 0.0 1 1.0E-3 1.0e-4  120                          # Item 2: 
+#0.4 6.0e4 50 1.0e-5  1  307  1  COMPLEX  0.8 0.00001 0.000  0.0  1  30 2.0 0.9 CONTINUE  (! Nonmeth=1 Newton) (linmeth=1 gmres)
+#1 0 3 5 1 0.0 1 1.0E-3 1.0e-4  120                          # Item 2:

@@ -1,5 +1,5 @@
 # IUPWCB HDRY NPUPW IPHDRY Options
-  1      -99999 0    0
+  1     -99999  0    0
   0 0 0 #LAYTYP(NLAY) 0 = confined
   0 0 0 # LAYAVG(NLAY)
   1 1 1 # CHANI(NLAY)
