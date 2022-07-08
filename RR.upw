@@ -1,0 +1,16 @@
+# IUPWCB HDRY NPUPW IPHDRY Options
+  1      -99999 0    0
+  0 0 0 #LAYTYP(NLAY) 0 = confined
+  0 0 0 # LAYAVG(NLAY)
+  1 1 1 # CHANI(NLAY)
+  0 0 0 # LAYVKA(NLAY)
+  0 0 0 # laywet
+OPEN/CLOSE lay1K.dat 1.00 (FREE)  -1  # 731     1.000(10e12.4)                   -1     HYDRAULIC CONDUCTIVITY Lay 1
+CONSTANT 1.000000E-03   VKA FOR LAYER   1
+CONSTANT .2 #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
+OPEN/CLOSE lay2K.dat 1.00 (FREE)  -1  #732     1.000(10e12.4)                   -1     HYDRAULIC CONDUCTIVITY Layer 2
+CONSTANT 1.000000E-03   VKA FOR LAYER   1
+CONSTANT .2 #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
+OPEN/CLOSE lay3T.dat 1.00 (FREE)   -1          #model_top       733     1.000(10e12.4)
+CONSTANT 1.000000E-03   VKA FOR LAYER   1
+CONSTANT .02 #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
