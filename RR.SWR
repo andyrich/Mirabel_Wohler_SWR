@@ -27,12 +27,12 @@ END
 # DATASET 4 - REACH LOCATION DATA
 #                   LAY  ROW  COL
 #IREACH IEQN IRGNUM KRCH IRCH JRCH   RLEN
-open/close '../Routing/reach_loc.txt'
+open/close 'inputs/reach_loc.txt'
 
    
 # DATASET 4B - REACH CONNECTIVITY
 #IREACH NCONN ICONN
-open/close '../Routing/rout.txt'
+open/close 'inputs/rout.txt'
 #1   1    2
 #2   2    1    3
 #3   2    2    4
@@ -79,14 +79,14 @@ open/close '../Routing/rout.txt'
 
 # DATASET 6 - BOUNDARY DATA
 # IBNDRCH ISWRBND
-open/close '../Routing/dataset6.txt'
+open/close 'inputs/dataset6.txt'
 
 
 # DATASET 7B - RAINFALL DATA
 # OPEN/CLOSE ref/Rainfall_001.ref 1.00 (FREE)   -1          #STRESS PERIOD 001
 
 # DATASET 8A - EVAPORATION DATA
-open/close '../Routing/evap.tab'
+open/close 'inputs/evap.tab'
 
 # DATASET 9A - LATERAL INFLOW DATA
 # CONSTANT 1 (11e12.4)                   +1   
@@ -96,7 +96,7 @@ open/close '../Routing/evap.tab'
 # DATASET 8A
 #INTERNAL
 #IGMODRCH IGEONUMR GZSHIFT 
-open/close '../Routing/dataset_10.txt'
+open/close 'inputs/dataset_10.txt'
 
 
 # DATASET 11A - GEOMETRY DATA
@@ -109,7 +109,7 @@ open/close '../Routing/dataset_10.txt'
 # IGEONUM IGEOTYPE IGCNDOP GMANNING NGEOPTS GWIDTH GBELEV GSSLOPE    GCND      GLK GCNDLN GETEXTD
 #EXTERNAL Nunit CNSTNT FMTIN IPRN
 EXTERNAL 735 FREE 1 1
- #open/close '../Routing/dataset11a.txt'
+ #open/close 'inputs/dataset11a.txt'
     #1       5 1      0.25      0.25      0.00092           0.25
  #   2       5 1      0.25      0.25      0.00092           0.25
  #   3       5 1      0.25      0.25      0.00092           0.25
