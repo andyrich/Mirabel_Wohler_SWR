@@ -11,7 +11,7 @@ GHB              317  RR.ghb
 #EVT              324  RR.evt
 OC               322  RR.oc
 #PCG              319  RR.pcg
-#DATA         	 201  ref\inflow.dat
+DATA         	 201  ref\inflow.dat
 SWR				200   RR.SWR
 DATA(BINARY)       1  Results\RRMF.cbc REPLACE
 DATA(BINARY)     336  Results\RRbin.hds REPLACE
