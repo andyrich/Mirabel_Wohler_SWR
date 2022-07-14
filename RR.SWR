@@ -86,7 +86,7 @@ open/close '../Routing/dataset6.txt'
 # OPEN/CLOSE ref/Rainfall_001.ref 1.00 (FREE)   -1          #STRESS PERIOD 001
 
 # DATASET 8A - EVAPORATION DATA
-open/close 'inputs/evap.tab'
+open/close '../Routing/evap.tab'
 
 # DATASET 9A - LATERAL INFLOW DATA
 # CONSTANT 1 (11e12.4)                   +1   
