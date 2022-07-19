@@ -31,5 +31,6 @@ DATA 736 inputs\reach_loc.txt
 DATA 737 inputs\rout.txt
 DATA 701 inputs\dataset6.txt
 DATA 700 inputs\evap.tab
+DATA 703 inputs\rain.tab
 DATA 740 inputs\dataset_10.txt
 DATA 741 inputs\start_stage.tab
