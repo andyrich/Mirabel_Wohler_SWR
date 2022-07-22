@@ -17,7 +17,7 @@ SWR				200   RR.SWR
 DATA(BINARY)       1  Results\RRMF.cbc REPLACE
 DATA(BINARY)     336  Results\RRbin.hds REPLACE
 DATA         301 Results\SWRSample05.riv
-DATA         302 Results\SWRSample05.cnv
+DATA         302 Results\Convergence_History.cnv
 DATA  731 lay1K.dat                
 DATA  732 lay2K.dat                  
 DATA  733 lay3T.dat
