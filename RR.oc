@@ -5,34 +5,58 @@ DRAWDOWN PRINT FORMAT   0
 
 period 1 step 1 
   PRINT BUDGET
+  SAVE BUDGET
+
+   SAVE HEAD
 
 
 period 1 step 2 
   PRINT BUDGET
+  SAVE BUDGET
+
+   SAVE HEAD
 
 
 period 1 step 3 
   PRINT BUDGET
+  SAVE BUDGET
+
+   SAVE HEAD
 
 
 period 1 step 4 
   PRINT BUDGET
+  SAVE BUDGET
+
+   SAVE HEAD
 
 
 period 1 step 5 
   PRINT BUDGET
+  SAVE BUDGET
+
+   SAVE HEAD
 
 
 period 1 step 6 
   PRINT BUDGET
+  SAVE BUDGET
+
+   SAVE HEAD
 
 
 period 1 step 7 
   PRINT BUDGET
+  SAVE BUDGET
+
+   SAVE HEAD
 
 
 period 1 step 8 
   PRINT BUDGET
+  SAVE BUDGET
+
+   SAVE HEAD
 
 
 period 1 step 9 
@@ -98,7 +122,7 @@ period 1 step 23
 period 1 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
    SAVE HEAD
 
 period 2 step 1 
@@ -196,7 +220,7 @@ period 2 step 23
 period 2 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
      SAVE HEAD
 
 period 3 step 1 
@@ -294,7 +318,7 @@ period 3 step 23
 period 3 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
    SAVE HEAD
 
 period 4 step 1 
@@ -392,7 +416,8 @@ period 4 step 23
 period 4 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 5 step 1 
@@ -490,7 +515,8 @@ period 5 step 23
 period 5 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 6 step 1 
@@ -588,7 +614,8 @@ period 6 step 23
 period 6 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 7 step 1 
@@ -686,7 +713,8 @@ period 7 step 23
 period 7 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 8 step 1 
@@ -784,7 +812,8 @@ period 8 step 23
 period 8 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 9 step 1 
@@ -882,7 +911,8 @@ period 9 step 23
 period 9 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 10 step 1 
@@ -980,7 +1010,8 @@ period 10 step 23
 period 10 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 11 step 1 
@@ -1078,7 +1109,8 @@ period 11 step 23
 period 11 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 12 step 1 
@@ -1176,7 +1208,8 @@ period 12 step 23
 period 12 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 13 step 1 
@@ -1274,7 +1307,8 @@ period 13 step 23
 period 13 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 14 step 1 
@@ -1372,7 +1406,8 @@ period 14 step 23
 period 14 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 15 step 1 
@@ -1470,7 +1505,8 @@ period 15 step 23
 period 15 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 16 step 1 
@@ -1568,7 +1604,8 @@ period 16 step 23
 period 16 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 17 step 1 
@@ -1666,7 +1703,8 @@ period 17 step 23
 period 17 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 18 step 1 
@@ -1764,7 +1802,8 @@ period 18 step 23
 period 18 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 19 step 1 
@@ -1862,7 +1901,8 @@ period 19 step 23
 period 19 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 20 step 1 
@@ -1960,7 +2000,8 @@ period 20 step 23
 period 20 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 21 step 1 
@@ -2058,7 +2099,8 @@ period 21 step 23
 period 21 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 22 step 1 
@@ -2156,7 +2198,8 @@ period 22 step 23
 period 22 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 23 step 1 
@@ -2254,7 +2297,8 @@ period 23 step 23
 period 23 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 24 step 1 
@@ -2352,7 +2396,8 @@ period 24 step 23
 period 24 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 25 step 1 
@@ -2450,7 +2495,8 @@ period 25 step 23
 period 25 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 26 step 1 
@@ -2548,7 +2594,8 @@ period 26 step 23
 period 26 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 27 step 1 
@@ -2646,7 +2693,8 @@ period 27 step 23
 period 27 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 28 step 1 
@@ -2744,7 +2792,8 @@ period 28 step 23
 period 28 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 29 step 1 
@@ -2842,7 +2891,8 @@ period 29 step 23
 period 29 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 30 step 1 
@@ -2940,7 +2990,8 @@ period 30 step 23
 period 30 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 31 step 1 
@@ -3038,7 +3089,8 @@ period 31 step 23
 period 31 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 32 step 1 
@@ -3136,7 +3188,8 @@ period 32 step 23
 period 32 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 33 step 1 
@@ -3234,7 +3287,8 @@ period 33 step 23
 period 33 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 34 step 1 
@@ -3332,7 +3386,8 @@ period 34 step 23
 period 34 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 35 step 1 
@@ -3430,7 +3485,8 @@ period 35 step 23
 period 35 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 36 step 1 
@@ -3528,7 +3584,8 @@ period 36 step 23
 period 36 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 37 step 1 
@@ -3626,7 +3683,8 @@ period 37 step 23
 period 37 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 38 step 1 
@@ -3724,7 +3782,8 @@ period 38 step 23
 period 38 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 39 step 1 
@@ -3822,7 +3881,8 @@ period 39 step 23
 period 39 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 40 step 1 
@@ -3920,7 +3980,8 @@ period 40 step 23
 period 40 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 41 step 1 
@@ -4018,7 +4079,8 @@ period 41 step 23
 period 41 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 42 step 1 
@@ -4116,7 +4178,8 @@ period 42 step 23
 period 42 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 43 step 1 
@@ -4214,7 +4277,8 @@ period 43 step 23
 period 43 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 44 step 1 
@@ -4312,7 +4376,8 @@ period 44 step 23
 period 44 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 45 step 1 
@@ -4410,7 +4475,8 @@ period 45 step 23
 period 45 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 46 step 1 
@@ -4508,7 +4574,8 @@ period 46 step 23
 period 46 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 47 step 1 
@@ -4606,7 +4673,8 @@ period 47 step 23
 period 47 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 48 step 1 
@@ -4704,7 +4772,8 @@ period 48 step 23
 period 48 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 49 step 1 
@@ -4802,7 +4871,8 @@ period 49 step 23
 period 49 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 50 step 1 
@@ -4900,7 +4970,8 @@ period 50 step 23
 period 50 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 51 step 1 
@@ -4998,7 +5069,8 @@ period 51 step 23
 period 51 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 52 step 1 
@@ -5096,7 +5168,8 @@ period 52 step 23
 period 52 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 53 step 1 
@@ -5194,7 +5267,8 @@ period 53 step 23
 period 53 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 54 step 1 
@@ -5292,7 +5366,8 @@ period 54 step 23
 period 54 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 55 step 1 
@@ -5390,7 +5465,8 @@ period 55 step 23
 period 55 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 56 step 1 
@@ -5488,7 +5564,8 @@ period 56 step 23
 period 56 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 57 step 1 
@@ -5586,7 +5663,8 @@ period 57 step 23
 period 57 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 58 step 1 
@@ -5684,7 +5762,8 @@ period 58 step 23
 period 58 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 59 step 1 
@@ -5782,7 +5861,8 @@ period 59 step 23
 period 59 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 60 step 1 
@@ -5880,7 +5960,8 @@ period 60 step 23
 period 60 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 61 step 1 
@@ -5978,7 +6059,8 @@ period 61 step 23
 period 61 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 62 step 1 
@@ -6076,7 +6158,8 @@ period 62 step 23
 period 62 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 63 step 1 
@@ -6174,7 +6257,8 @@ period 63 step 23
 period 63 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 64 step 1 
@@ -6272,7 +6356,8 @@ period 64 step 23
 period 64 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 65 step 1 
@@ -6370,7 +6455,8 @@ period 65 step 23
 period 65 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 66 step 1 
@@ -6468,7 +6554,8 @@ period 66 step 23
 period 66 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 67 step 1 
@@ -6566,7 +6653,8 @@ period 67 step 23
 period 67 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 68 step 1 
@@ -6664,7 +6752,8 @@ period 68 step 23
 period 68 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 69 step 1 
@@ -6762,7 +6851,8 @@ period 69 step 23
 period 69 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 70 step 1 
@@ -6860,7 +6950,8 @@ period 70 step 23
 period 70 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 71 step 1 
@@ -6958,7 +7049,8 @@ period 71 step 23
 period 71 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 72 step 1 
@@ -7056,7 +7148,8 @@ period 72 step 23
 period 72 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 73 step 1 
@@ -7154,7 +7247,8 @@ period 73 step 23
 period 73 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 74 step 1 
@@ -7252,7 +7346,8 @@ period 74 step 23
 period 74 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 75 step 1 
@@ -7350,7 +7445,8 @@ period 75 step 23
 period 75 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 76 step 1 
@@ -7448,7 +7544,8 @@ period 76 step 23
 period 76 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 77 step 1 
@@ -7546,7 +7643,8 @@ period 77 step 23
 period 77 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 78 step 1 
@@ -7644,7 +7742,8 @@ period 78 step 23
 period 78 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 79 step 1 
@@ -7742,7 +7841,8 @@ period 79 step 23
 period 79 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 80 step 1 
@@ -7840,7 +7940,8 @@ period 80 step 23
 period 80 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 81 step 1 
@@ -7938,7 +8039,8 @@ period 81 step 23
 period 81 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 82 step 1 
@@ -8036,7 +8138,8 @@ period 82 step 23
 period 82 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 83 step 1 
@@ -8134,7 +8237,8 @@ period 83 step 23
 period 83 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 84 step 1 
@@ -8232,7 +8336,8 @@ period 84 step 23
 period 84 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 85 step 1 
@@ -8330,7 +8435,8 @@ period 85 step 23
 period 85 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 86 step 1 
@@ -8428,7 +8534,8 @@ period 86 step 23
 period 86 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 87 step 1 
@@ -8526,7 +8633,8 @@ period 87 step 23
 period 87 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 88 step 1 
@@ -8624,7 +8732,8 @@ period 88 step 23
 period 88 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 89 step 1 
@@ -8722,7 +8831,8 @@ period 89 step 23
 period 89 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 90 step 1 
@@ -8820,7 +8930,8 @@ period 90 step 23
 period 90 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 91 step 1 
@@ -8918,7 +9029,8 @@ period 91 step 23
 period 91 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 92 step 1 
@@ -9016,7 +9128,8 @@ period 92 step 23
 period 92 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 93 step 1 
@@ -9114,7 +9227,8 @@ period 93 step 23
 period 93 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 94 step 1 
@@ -9212,7 +9326,8 @@ period 94 step 23
 period 94 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 95 step 1 
@@ -9310,7 +9425,8 @@ period 95 step 23
 period 95 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 96 step 1 
@@ -9408,7 +9524,8 @@ period 96 step 23
 period 96 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 97 step 1 
@@ -9506,7 +9623,8 @@ period 97 step 23
 period 97 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 98 step 1 
@@ -9604,7 +9722,8 @@ period 98 step 23
 period 98 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 99 step 1 
@@ -9702,7 +9821,8 @@ period 99 step 23
 period 99 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 100 step 1 
@@ -9800,7 +9920,8 @@ period 100 step 23
 period 100 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 101 step 1 
@@ -9898,7 +10019,8 @@ period 101 step 23
 period 101 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 102 step 1 
@@ -9996,7 +10118,8 @@ period 102 step 23
 period 102 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 103 step 1 
@@ -10094,7 +10217,8 @@ period 103 step 23
 period 103 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 104 step 1 
@@ -10192,7 +10316,8 @@ period 104 step 23
 period 104 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 105 step 1 
@@ -10290,7 +10415,8 @@ period 105 step 23
 period 105 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 106 step 1 
@@ -10388,7 +10514,8 @@ period 106 step 23
 period 106 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 107 step 1 
@@ -10486,7 +10613,8 @@ period 107 step 23
 period 107 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 108 step 1 
@@ -10584,7 +10712,8 @@ period 108 step 23
 period 108 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 
 period 109 step 1 
@@ -10682,6 +10811,7 @@ period 109 step 23
 period 109 step 24 
   PRINT BUDGET
   SAVE BUDGET
-  PRINT HEAD
+
+   SAVE HEAD
 
 

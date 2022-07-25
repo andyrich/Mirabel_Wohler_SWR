@@ -1,5 +1,5 @@
 rem ***Sample 01
 
-..\data\bin\MODFLOW-NWT.exe RRMF.nam
+..\data\bin\MODFLOW-NWT_64.exe RRMF.nam
 
 pause

@@ -6,17 +6,18 @@ BAS6             308  RR.bas6
 #BCF6             311  RR.bcf6
 UPW             311  RR.upw
 NWT              319 RR.nwt
-#WEL              312  RR.wel
+WEL              312  RR.wel
 GHB              317  RR.ghb
 #EVT              324  RR.evt
 OC               322  RR.oc
 #PCG              319  RR.pcg
 DATA         	 201  ref\inflow.dat
 SWR				200   RR.SWR
+#DRN             202        RRMF.drn
 DATA(BINARY)       1  Results\RRMF.cbc REPLACE
 DATA(BINARY)     336  Results\RRbin.hds REPLACE
 DATA         301 Results\SWRSample05.riv
-DATA         302 Results\SWRSample05.cnv
+DATA         302 Results\Convergence_History.cnv
 DATA  731 lay1K.dat                
 DATA  732 lay2K.dat                  
 DATA  733 lay3T.dat
@@ -31,5 +32,6 @@ DATA 736 inputs\reach_loc.txt
 DATA 737 inputs\rout.txt
 DATA 701 inputs\dataset6.txt
 DATA 700 inputs\evap.tab
+DATA 703 inputs\rain.tab
 DATA 740 inputs\dataset_10.txt
 DATA 741 inputs\start_stage.tab
