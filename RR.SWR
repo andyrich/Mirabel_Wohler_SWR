@@ -9,7 +9,7 @@
 PRINT_SWR_TO_SCREEN
 USE_TABFILES
 USE_NONCONVERGENCE_CONTINUE
-USE_EXPLICIT_NEWTON_CORRECTION
+#USE_EXPLICIT_NEWTON_CORRECTION
 USE_INEXACT_NEWTON
 #SAVE_RIVER_PACKAGE 301
 SAVE_CONVERGENCE_HISTORY 302
@@ -104,7 +104,7 @@ EXTERNAL 735 FREE 1 1
 # DATASET 13A
 #ISTRRCH ISTRNUM ISTRCONN ISTRTYPE NSTRPTS STRCD STRCD2 STRCD3 STRINV STRINV2 STRWID STRWID2 STRLEN STRMAN STRVAL ISTRDIR ISFRSEG ISFRREACH
  #     116       1       0        6           0.61          0.5  50             20.00                       1.0       -1
-   116       1       0        2                                  50
+   116       1       0        2                                  50                                                         56      1
    1         1       0      11                                                                                              51      9
 # DATASET 14A - REACH STAGE DATA
 #open/close 'inputs/start_stage.tab'
