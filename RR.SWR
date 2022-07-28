@@ -51,15 +51,15 @@ EXTERNAL 737 FREE 1 1
 
 # DATASET 4C - TABULAR DIMENSION DATA
 # NTABS
-   1
+   0
 
 # DATASET 4D - TABULAR SPECIFICATION DATA
 # ITAB CTABTYPE ITABUNIT   CINTP NTABRCH ITABRCH(1:NTABRCH)
-   1    LATFLOW      201    NONE       1   1
+#   1    LATFLOW      201    NONE       1   1
 
 # DATASET 5 - STRESS PERIOD 1
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]
-     1   116    0     0       1     116      1    116      1      # 5
+     1   116    0     0       0     116      2    116      1      # 5
 
 # DATASET 6 - BOUNDARY DATA
 # IBNDRCH ISWRBND
@@ -72,7 +72,7 @@ EXTERNAL 701 FREE 1 1
 
 # DATASET 9A - LATERAL INFLOW DATA
 # CONSTANT 1 (11e12.4)                   +1   
-1 10
+#1 10
 
 # DATASET 10 - GEOMETRY ASSIGNMENT DATA
 # DATASET 8A
@@ -97,16 +97,18 @@ EXTERNAL 735 FREE 1 1
 
 
 # DATASET 12 - STRUCTURE ASSIGNMENT DATA
-#ISMODRCH NSTRUCT 
+#ISMODRCH NSTRUCT
+1     1
 116   1
 
 # DATASET 13A
-#ISTRRCH ISTRNUM ISTRCONN ISTRTYPE NSTRPTS STRCD STRCD2 STRCD3 STRINV STRINV2 STRWID STRWID2 STRLEN STRMAN STRVAL ISTRDIR
+#ISTRRCH ISTRNUM ISTRCONN ISTRTYPE NSTRPTS STRCD STRCD2 STRCD3 STRINV STRINV2 STRWID STRWID2 STRLEN STRMAN STRVAL ISTRDIR ISFRSEG ISFRREACH
  #     116       1       0        6           0.61          0.5  50             20.00                       1.0       -1
-       116       1       0        2                              50
+   116       1       0        2                                  50
+   1         1       0      11                                                                                              51      9
+# DATASET 14A - REACH STAGE DATA
 #open/close 'inputs/start_stage.tab'
 EXTERNAL 741 FREE 1 1
-# DATASET 14A - REACH STAGE DATA
 -1
 -1
 -1
