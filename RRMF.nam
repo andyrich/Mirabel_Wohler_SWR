@@ -6,13 +6,14 @@ BAS6             308  RR.bas6
 #BCF6             311  RR.bcf6
 UPW             311  RR.upw
 NWT              319 RR.nwt
-WEL              312  RR.wel
+#WEL              312  RR.wel
 GHB              317  RR.ghb
 #EVT              324  RR.evt
 OC               322  RR.oc
 #PCG              319  RR.pcg
 DATA         	 201  ref\inflow.dat
 SWR				200   RR.SWR
+SFR            203 sfr_only.sfr
 #DRN             202        RRMF.drn
 DATA(BINARY)       1  Results\RRMF.cbc REPLACE
 DATA(BINARY)     336  Results\RRbin.hds REPLACE
@@ -35,3 +36,8 @@ DATA 700 inputs\evap.tab
 DATA 703 inputs\rain.tab
 DATA 740 inputs\dataset_10.txt
 DATA 741 inputs\start_stage.tab
+DATA 745 ref/solution.SWR
+DATA 746 Results\sfr_output.cbc
+DATA 55 ref\Dry_creek.dat
+DATA 56 ref\RRinflow.dat
+DATA 57 ref\MarkWest.dat
