@@ -6,10 +6,11 @@
         116       0      0      101      102      103      104     105      106  SWROPTIONS # AUX CONCENTRATION AUX TVAR1
 # DATASET 1B - SWR1 OPTIONS
 #PRINT_SWR_TO_SCREEN
-#USE_TABFILES
+USE_TABFILES
 USE_NONCONVERGENCE_CONTINUE
-#USE_EXPLICIT_NEWTON_CORRECTION
+USE_EXPLICIT_NEWTON_CORRECTION
 USE_INEXACT_NEWTON
+SAVE_AVERAGE_RESULTS
 #SAVE_RIVER_PACKAGE 301
 #SAVE_CONVERGENCE_HISTORY 302
 END
@@ -36,11 +37,11 @@ EXTERNAL 737 FREE 1 1
 
 # DATASET 4C - TABULAR DIMENSION DATA
 # NTABS
-#   0
+   1
 
 # DATASET 4D - TABULAR SPECIFICATION DATA
 # ITAB CTABTYPE ITABUNIT   CINTP NTABRCH ITABRCH(1:NTABRCH)
-#   1    LATFLOW      201    NONE       1   1
+   1    STAGE      58      NONE       1   116
 
 # DATASET 5 - STRESS PERIOD 1
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]
@@ -83,570 +84,453 @@ EXTERNAL 735 FREE 1 1
 
 # DATASET 12 - STRUCTURE ASSIGNMENT DATA
 #ISMODRCH NSTRUCT
-1     1
-116   1
-
+#1     1
+#116   1
+open/close 'ref\nstruct.dat'
 # DATASET 13A
 #ISTRRCH ISTRNUM ISTRCONN ISTRTYPE NSTRPTS STRCD STRCD2 STRCD3 STRINV STRINV2 STRWID STRWID2 STRLEN STRMAN STRVAL ISTRDIR ISFRSEG ISFRREACH
    # 116       1       0        2                                  50                                                         56      1
  # 116    1         0       6
  #116       115       0       6           0.61          0.5     50            20.00                       0.0       1      51 1
-   1         1       0      11                                                                                              51      9
-   116       1       0        6          0.61           0.5  30.6          10.00                         0.25       1     56    1
+#   1         1       0      11                                                                                              51      9
+#   116       1       0        6          0.61           0.5  30.6          10.00                         0.25       1     56    1
+open/close 'ref\dam_stage\day0.dat'
 # DATASET 13B structure 1 reach 19
-#CSTROVAL ISTRORCH ISTROQCON ISTRLO STRCRIT STRCRITC  STRRT STRMAX    CSTRVAL
-#    STAGE       116               GE   0.750      0.0  108.0   0.25
+#CSTROVAL ISTRORCH ISTROQCON CSTRLO STRCRIT   STRCRITC  STRRT STRMAX    CSTRVAL
+#    STAGE       116             GE   30        0.1     .1   0.5
 
 # DATASET 14A - REACH STAGE DATA
 #open/close 'inputs/start_stage.tab'
 EXTERNAL 741 FREE 1 1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
--1
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day1.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day2.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day3.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day4.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day5.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day6.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day7.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day8.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day9.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day10.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day11.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day12.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day13.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day14.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day15.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day16.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day17.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day18.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day19.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day20.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day21.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day22.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day23.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day24.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day25.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day26.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day27.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day28.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day29.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day30.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day31.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day32.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day33.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day34.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day35.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day36.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day37.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day38.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day39.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day40.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day41.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day42.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day43.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day44.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day45.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day46.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day47.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day48.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day49.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day50.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day51.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day52.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day53.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day54.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day55.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day56.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day57.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day58.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day59.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day60.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day61.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day62.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day63.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day64.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day65.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day66.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day67.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day68.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day69.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day70.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day71.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day72.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day73.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day74.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day75.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day76.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day77.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day78.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day79.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day80.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day81.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day82.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day83.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day84.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day85.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day86.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day87.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day88.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day89.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day90.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day91.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day92.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day93.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day94.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day95.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day96.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day97.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day98.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day99.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day100.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day101.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day102.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day103.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day104.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day105.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day106.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day107.dat
+# ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
+    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    open/close 'ref\nstruct.dat'\n
+    open/close 'ref\dam_stage\day108.dat
