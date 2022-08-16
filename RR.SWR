@@ -47,24 +47,18 @@ EXTERNAL 737 FREE 1 1
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]
      1   158    0     0       4     158      6    158      1      # 5
 
-# DATASET 6 - BOUNDARY DATA
-# IBNDRCH ISWRBND
+#IBNDRCH ISWRBND
 #open/close 'inputs/dataset6.txt'
 EXTERNAL 701 FREE 1 1
 
-# DATASET 8A - EVAPORATION DATA
-#open/close 'inputs/evap.tab'
-#EXTERNAL 700 FREE 1 1
-
-# DATASET 9A - LATERAL INFLOW DATA
-# CONSTANT 1 (11e12.4)                   +1   
-#1 10
-
+# DATASET 9A - LATERAL INFLOW DATA, only needs to be written internally on first SP
+117 .10
+138 .20
+146 .30
+129 .40
 # DATASET 10 - GEOMETRY ASSIGNMENT DATA
 # DATASET 8A
-#INTERNAL
-#IGMODRCH IGEONUMR GZSHIFT 
-
+#IGMODRCH IGEONUMR GZSHIFT
 EXTERNAL 740 FREE 1 1
 #open/close 'inputs/dataset_10.txt'
 
@@ -103,7 +97,8 @@ open/close 'ref\dam_stage\day0.dat'
 #open/close 'inputs/start_stage.tab'
 EXTERNAL 741 FREE 1 1
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
-    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    1   -1    0      0       4     -1      2      0       1      # 5              #\
+    OPEN/CLOSE 'ref\pond\day0.dat'
     open/close 'ref\nstruct.dat'\n
     open/close 'ref\dam_stage\day1.dat
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
