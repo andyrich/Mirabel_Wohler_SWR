@@ -45,7 +45,7 @@ EXTERNAL 737 FREE 1 1
 
 # DATASET 5 - STRESS PERIOD 1
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]
-     1   158    0     0       4     158      6    158      1      # 5
+     1   158    0     0       4     158      2    158      1      # 5
 
 #IBNDRCH ISWRBND
 #open/close 'inputs/dataset6.txt'
