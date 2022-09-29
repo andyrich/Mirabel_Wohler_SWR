@@ -7,10 +7,10 @@
   0 0 0 # laywet
 OPEN/CLOSE hklay1_thck.txt 1.00 (FREE)  -1  # 731     1.000(10e12.4)                   -1     HYDRAULIC CONDUCTIVITY Lay 1
 CONSTANT 1.000000E-03   VKA FOR LAYER   1
-OPEN/CLOSE sslay1_thck.txt 1.00 (FREE)  -1  # 731     1.000(10e12.4)                   -1  #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
+OPEN/CLOSE sslay1_thck.txt 0.100 (FREE)  -1  # 731     1.000(10e12.4)                   -1  #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
 OPEN/CLOSE hklay2_thck.txt 1.00 (FREE)  -1  #732     1.000(10e12.4)                   -1     HYDRAULIC CONDUCTIVITY Layer 2
 CONSTANT 1.000000E-03   VKA FOR LAYER   1
-OPEN/CLOSE sslay2_thck.txt 1.00 (FREE)  -1  # 731     1.000(10e12.4)                   -1  #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
+OPEN/CLOSE sslay2_thck.txt 0.100 (FREE)  -1  # 731     1.000(10e12.4)                   -1  #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
 OPEN/CLOSE hklay3_thck.txt 1.00 (FREE)   -1          #model_top       733     1.000(10e12.4)
 CONSTANT 1.000000E-03   VKA FOR LAYER   1
-OPEN/CLOSE sslay3_thck.txt 1.00 (FREE)  -1  # 731     1.000(10e12.4)                   -1  #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
+OPEN/CLOSE sslay3_thck.txt 0.100 (FREE)  -1  # 731     1.000(10e12.4)                   -1  #ss (was 0.2 in original model/ but assuming layer thickness of 100 feet, needs to be updated)
