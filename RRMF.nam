@@ -7,7 +7,7 @@ BAS6             308  RR.bas6
 UPW             311  RR.upw
 NWT              319 RR.nwt
 WEL              312  RR.wel
-GHB              317  RR.ghb
+#GHB              317  RR.ghb
 #EVT              324  RR.evt
 OC               322  RR.oc
 #PCG              319  RR.pcg
