@@ -7,9 +7,9 @@ BAS6             308  RR.bas6
 UPW             311  RR.upw
 NWT              319 RR.nwt
 WEL              312  RR.wel
-#GHB              317  RR.ghb
+GHB              317  RR.ghb
 #EVT              324  RR.evt
-OC               322  RR.oc
+OC               322  rr_all.oc
 #PCG              319  RR.pcg
 DATA         	 201  ref\inflow.dat
 SWR				200   RR.SWR
@@ -20,9 +20,9 @@ DATA(BINARY)       1  Results\RRMF.cbc REPLACE
 DATA(BINARY)     336  Results\RRbin.hds REPLACE
 DATA         301 Results\SWRSample05.riv
 DATA         302 Results\Convergence_History.cnv
-DATA  731 lay1K.dat                
-DATA  732 lay2K.dat                  
-DATA  733 lay3T.dat
+#DATA  731 lay1K.dat
+#DATA  732 lay2K.dat
+#DATA  733 lay3T.dat
 DATA 101 Results\ISWRPRGF.dat
 DATA 102 Results\ISWRPSTG.dat
 DATA 103 Results\ISWRPQAQ.dat
