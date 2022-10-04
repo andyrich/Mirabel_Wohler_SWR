@@ -1,0 +1,13302 @@
+HEAD PRINT FORMAT   0
+HEAD SAVE UNIT   336
+DRAWDOWN PRINT FORMAT   0
+
+period 1 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 1 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 1 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 2 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 2 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 2 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 3 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 3 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 3 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 4 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 4 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 4 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 5 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 5 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 5 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 6 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 6 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 6 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 7 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 7 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 7 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 8 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 8 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 8 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 9 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 9 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 9 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 10 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 10 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 10 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 11 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 11 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 11 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 12 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 12 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 12 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 13 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 13 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 13 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 14 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 14 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 14 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 15 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 15 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 15 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 16 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 16 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 16 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 17 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 17 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 17 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 18 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 18 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 18 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 19 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 19 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 19 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 20 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 20 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 20 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 21 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 21 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 21 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 22 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 22 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 22 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 23 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 23 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 23 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 24 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 24 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 24 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 25 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 25 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 25 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 26 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 26 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 26 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 27 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 27 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 27 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 28 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 28 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 28 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 29 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 29 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 29 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 30 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 30 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 30 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 31 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 31 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 31 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 32 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 32 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 32 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 33 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 33 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 33 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 34 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 34 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 34 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 35 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 35 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 35 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 36 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 36 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 36 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 37 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 37 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 37 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 38 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 38 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 38 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 39 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 39 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 39 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 40 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 40 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 40 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 41 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 41 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 41 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 42 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 42 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 42 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 43 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 43 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 43 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 44 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 44 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 44 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 45 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 45 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 45 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 46 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 46 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 46 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 47 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 47 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 47 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 48 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 48 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 48 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 49 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 49 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 49 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 50 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 50 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 50 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 51 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 51 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 51 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 52 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 52 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 52 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 53 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 53 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 53 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 54 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 54 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 54 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 55 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 55 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 55 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 56 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 56 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 56 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 57 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 57 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 57 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 58 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 58 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 58 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 59 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 59 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 59 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 60 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 60 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 60 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 61 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 61 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 61 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 62 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 62 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 62 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 63 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 63 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 63 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 64 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 64 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 64 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 65 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 65 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 65 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 66 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 66 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 66 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 67 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 67 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 67 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 68 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 68 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 68 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 69 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 69 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 69 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 70 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 70 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 70 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 71 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 71 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 71 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 72 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 72 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 72 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 73 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 73 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 73 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 74 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 74 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 74 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 75 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 75 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 75 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 76 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 76 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 76 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 77 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 77 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 77 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 78 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 78 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 78 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 79 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 79 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 79 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 80 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 80 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 80 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 81 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 81 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 81 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 82 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 82 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 82 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 83 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 83 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 83 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 84 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 84 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 84 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 85 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 85 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 85 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 86 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 86 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 86 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 87 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 87 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 87 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 88 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 88 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 88 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 89 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 89 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 89 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 90 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 90 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 90 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 91 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 91 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 91 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 92 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 92 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 92 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 93 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 93 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 93 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 94 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 94 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 94 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 95 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 95 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 95 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 96 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 96 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 96 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 97 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 97 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 97 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 98 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 98 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 98 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 99 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 99 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 99 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 100 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 100 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 100 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 101 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 101 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 101 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 102 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 102 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 102 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 103 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 103 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 103 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 104 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 104 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 104 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 105 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 105 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 105 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 106 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 106 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 106 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 107 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 107 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 107 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 108 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 108 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 108 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 109 step 1
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 2
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 3
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 4
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 5
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 6
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 7
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 8
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 9
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 10
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 11
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 12
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
+period 109 step 13
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 14
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 15
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 16
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 17
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 18
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 19
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 20
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 21
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 22
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 23
+PRINT BUDGET
+SAVE BUDGET
+
+
+period 109 step 24
+PRINT BUDGET
+SAVE BUDGET
+SAVE HEAD
+
+
