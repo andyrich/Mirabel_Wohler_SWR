@@ -15,7 +15,7 @@ DATA         	 201  ref\inflow.dat
 SWR				200   RR.SWR
 SFR            203 sfr_only.sfr
 RCH             205   RRMF.rch
-DRN             202        RRMF.drn
+#DRN             202        RRMF.drn
 DATA(BINARY)       1  Results\RRMF.cbc REPLACE
 DATA(BINARY)     336  Results\RRbin.hds REPLACE
 DATA         301 Results\SWRSample05.riv
