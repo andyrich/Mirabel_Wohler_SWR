@@ -1,4 +1,45 @@
 # IUPWCB HDRY NPUPW IPHDRY Options
+  1     -99999  11    0
+  1 1 0 #LAYTYP(NLAY) 0 = confined, 1 = convertible
+  0 0 0 # LAYAVG(NLAY)
+  1 1 1 # CHANI(NLAY)
+  1 1 1 # LAYVKA(NLAY)
+  0 0 0 # laywet
+HK_1 HK 1.0 1
+1 lay1hk hk_zones 1
+HK_2 HK 1.0 1
+2 lay2hk hk_zones 1
+HK_3 HK 1.0 1
+3 lay3hk hk_zones 1
+VK_1 VANI 1.0 1
+1 none vk_zones 1
+VK_2 VANI 1.0 1
+2 none vk_zones 1
+VK_3 VANI 1.0 1
+3 none vk_zones 1
+SS_1 SS 1.0 1
+1 none ss_zones 1
+SS_2 SS 1.0 1
+2 none ss_zones 1
+SS_3 SS 0.1 1
+3 lay3ss ss_zones 1
+SY_1 SY 1.0 1
+1 none sy_zones 1
+SY_2 SY 1.0 1
+2 none ss_zones 1
+0                HK layer 1
+0                VK layer 1
+0                SS layer 1
+0                HK layer 2
+0                VK layer 2
+0                SS layer 2
+0                HK layer 3
+0                VK layer 3
+0                SS layer 3
+0                HK layer 4
+0                VK layer 4
+
+# IUPWCB HDRY NPUPW IPHDRY Options
   1     -99999  0    0
   1 1 0 #LAYTYP(NLAY) 0 = confined, 1 = convertible
   0 0 0 # LAYAVG(NLAY)
