@@ -4,6 +4,8 @@ LIST             307  RRlist.lst
 DIS              315  RR.dis
 BAS6             308  RR.bas6
 #BCF6             311  RR.bcf6
+MULT             310 mult\mult.mult
+ZONE             316 mult\zones.zon
 UPW             311  RR.upw
 NWT              319 RR.nwt
 WEL              312  RR.wel
