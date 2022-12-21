@@ -1,0 +1,10 @@
+# ZONE FILE Line 0: Text
+4            Line 1: NZN
+sy_zones     Line 2: ZONNAM
+OPEN/CLOSE mult\zones_sy.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+ss_zones     Line 2: ZONNAM
+OPEN/CLOSE mult\zones_ss.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+vk_zones     Line 2: ZONNAM
+OPEN/CLOSE mult\zones_vk.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+hk_zones     Line 2: ZONNAM
+OPEN/CLOSE mult\zones_hk.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
