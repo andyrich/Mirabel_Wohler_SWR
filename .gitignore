@@ -2,3 +2,8 @@
 *.lst
 *.cbc
 *.hds
+/reg_pest.par
+/reg_pest.rec
+/reg_pest.svd
+/reg_pest.rst
+/reg_pest.sen
