@@ -26,7 +26,7 @@ SS_3 SS 0.1 1
 SY_1 SY 1.0 1
 1 none sy_zones 1
 SY_2 SY 1.0 1
-2 none ss_zones 1
+2 none sy_zones 1
 0                HK layer 1
 0                VK layer 1
 0                SS layer 1
