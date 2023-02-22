@@ -1917,7 +1917,9 @@ open/close 'ref\dam_stage\day363.dat'
 open/close 'ref\nstruct.dat'
 open/close 'ref\dam_stage\day364.dat'
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
-    1    -1    0      0       0       -1      2       0    1   # 5              #
+    1    -1    0      0       0       116      2       0    1   # 5              #
+    open/close 'inputs\dataset_10.txt'
+    open/close 'inputs\dataset11a_with_geo_2015.txt'
 #open/close 'ref\pond\day365.dat
 open/close 'ref\nstruct.dat'
 open/close 'ref\dam_stage\day365.dat'
@@ -3379,7 +3381,9 @@ open/close 'ref\dam_stage\day366.dat'
     open/close 'ref\nstruct.dat'\n
     open/close 'ref\dam_stage\day729.dat
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
-    1   -1    0      0       0     -1      2      0       1      # 5              #\
+    1    -1    0      0       0       116      2       0    1   # 5              #
+    open/close 'inputs\dataset_10.txt'
+    open/close 'inputs\dataset11a_with_geo_2016.txt'
     open/close 'ref\nstruct.dat'\n
     open/close 'ref\dam_stage\day730.dat
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
