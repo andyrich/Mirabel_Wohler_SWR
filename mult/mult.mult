@@ -1,10 +1,18 @@
 # Multiplier arrays for SV, 7 zones layer 1-4, 5 zones for layer 5-6
-4 	number of multiplier arrays
+8 	number of multiplier arrays
 lay1hk
-OPEN/CLOSE hklay1_thck.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+OPEN/CLOSE pilot_points/hk1.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
 lay2hk
-OPEN/CLOSE hklay2_thck.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+OPEN/CLOSE pilot_points/hk2.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
 lay3hk
-OPEN/CLOSE hklay3_thck.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+OPEN/CLOSE pilot_points/hk3.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+lay1ss
+OPEN/CLOSE pilot_points/ss1.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+lay2ss
+OPEN/CLOSE pilot_points/ss2.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
 lay3ss
-OPEN/CLOSE sslay3_thck.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+OPEN/CLOSE pilot_points/ss3.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+lay1sy
+OPEN/CLOSE pilot_points/sy1.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
+lay2sy
+OPEN/CLOSE pilot_points/sy2.txt 0 (FREE) -1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN

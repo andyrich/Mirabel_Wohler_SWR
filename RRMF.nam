@@ -10,7 +10,7 @@ UPW             311  RR.upw
 NWT              319 RR.nwt
 WEL              312  RR.wel
 GHB              317  RR.ghb
-#EVT              324  RR.evt
+GAGE            350   RR.gag
 PVAL            303  pval.PVAL
 HOB				323   RRMF.hob
 OC               322  rr_all.oc
@@ -44,6 +44,13 @@ DATA 740 inputs\dataset_10.txt
 DATA 741 inputs\start_stage.tab
 DATA 745 Results\solution.SWR
 DATA 746 Results\sfr_output.cbc
+DATA 750 Results\rr__outflow_from_swr.gag
+DATA 751 Results\rr__inflow_to_swr.gag
+DATA 752 Results\rr__below_first_cell.gag
+DATA 753 Results\dc__below_first_cell.gag
+DATA 754 Results\rr__outflow.gag
+DATA 755 Results\mark_west_creek__below_first_cell.gag
+DATA 756 Results\mark_west_creek__inflow_to_rr.gag
 DATA 55 ref\Dry_creek.dat
 DATA 56 ref\RRinflow.dat
 DATA 57 ref\MarkWest.dat
