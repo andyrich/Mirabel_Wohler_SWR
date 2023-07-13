@@ -3,7 +3,7 @@
 # DATASET 1A - DIMENSIONS AND PRELIMINARIES
 # NREACHES ISWRONLY ISWRCBC ISWRPRGF ISWRPSTG ISWRPQAQ ISWRPQM ISWRPSTR ISWRFRN Option                      
 #        116       0      1     101      102     103       104     105       106   SWROPTIONS # AUX CONCENTRATION AUX TVAR1
-        116       0      1      101      102      103      104     105      106  SWROPTIONS # AUX CONCENTRATION AUX TVAR1
+        76       0      1      101      102      103      104     105      106  SWROPTIONS # AUX CONCENTRATION AUX TVAR1
 # DATASET 1B - SWR1 OPTIONS
 #PRINT_SWR_TO_SCREEN
 USE_TABFILES
@@ -45,7 +45,7 @@ EXTERNAL 737 FREE 1 1
 
 # DATASET 5 - STRESS PERIOD 1
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]
-     1   116    0     0       0     116      2    116      1      # 5
+     1   76    0     0       0     76      2    76      1      # 5
 
 #IBNDRCH ISWRBND
 #open/close 'inputs/dataset6.txt'
@@ -1917,7 +1917,7 @@ open/close 'ref\dam_stage\day363.dat'
 open/close 'ref\nstruct.dat'
 open/close 'ref\dam_stage\day364.dat'
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
-    1    -1    0      0       0       116      2       0    1   # 5              #
+    1    -1    0      0       0       76      2       0    1   # 5              #
     open/close 'inputs\dataset_10.txt'
     open/close 'inputs\dataset11a_with_geo_2015.txt'
 #open/close 'ref\pond\day365.dat
@@ -3381,7 +3381,7 @@ open/close 'ref\dam_stage\day366.dat'
     open/close 'ref\nstruct.dat'\n
     open/close 'ref\dam_stage\day729.dat
 # ITMP IRDBND IRDRAI IRDEVP IRDLIN IRDGEO IRDSTR IRDSTG IPTFLG [IRDAUX]   #\
-    1    -1    0      0       0       116      2       0    1   # 5              #
+    1    -1    0      0       0       76      2       0    1   # 5              #
     open/close 'inputs\dataset_10.txt'
     open/close 'inputs\dataset11a_with_geo_2016.txt'
     open/close 'ref\nstruct.dat'\n
