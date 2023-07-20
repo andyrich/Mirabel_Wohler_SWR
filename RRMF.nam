@@ -13,7 +13,7 @@ GHB              317  RR.ghb
 GAGE            350   RR.gag
 PVAL            303  pval.PVAL
 HOB				323   RRMF.hob
-OC               322  rr_all.oc
+OC               322  RR.oc
 #PCG              319  RR.pcg
 DATA         	 201  ref\inflow.dat
 SWR				200   RR.SWR
