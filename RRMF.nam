@@ -13,7 +13,7 @@ GHB              317  RR.ghb
 GAGE            350   RR.gag
 PVAL            303  pval.PVAL
 HOB				323   RRMF.hob
-OC               322  rr_all.oc
+OC               322  RR.oc
 #PCG              319  RR.pcg
 DATA         	 201  ref\inflow.dat
 SWR				200   RR.SWR
@@ -55,3 +55,8 @@ DATA 55 ref\Dry_creek.dat
 DATA 56 ref\RRinflow.dat
 DATA 57 ref\MarkWest.dat
 DATA 58 ref\dam.dat
+
+DATA 60 inputs\lay_1_top.csv
+DATA 61 inputs\lay_1_bot.csv
+DATA 62 inputs\lay_2_bot.csv
+DATA 63 inputs\lay_3_bot.csv
