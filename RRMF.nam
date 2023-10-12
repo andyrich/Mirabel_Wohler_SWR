@@ -16,13 +16,14 @@ HOB				323   RRMF.hob
 OC               322  RR.oc
 #PCG              319  RR.pcg
 DATA         	 201  ref\inflow.dat
-SWR				200   RR.SWR
+#SWR				200   RR.SWR
 SFR            203 sfr_only.sfr
-RCH             205   RRMF.rch
+#RCH             205   RRMF.rch
 #DRN             202        RRMF.drn
 DATA(BINARY)       1  Results\RRMF.cbc REPLACE
 DATA(BINARY)     336  Results\RRbin.hds REPLACE
-DATA         301 Results\SWRSample05.riv
+RIV  305          SWR_riv_output.riv
+#DATA         301 Results\SWR_riv_output.riv
 DATA         302 Results\Convergence_History.cnv
 #DATA  731 lay1K.dat
 #DATA  732 lay2K.dat
