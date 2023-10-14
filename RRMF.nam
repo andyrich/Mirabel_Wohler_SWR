@@ -22,7 +22,8 @@ RCH             205   RRMF.rch
 #DRN             202        RRMF.drn
 DATA(BINARY)       1  Results\RRMF.cbc REPLACE
 DATA(BINARY)     336  Results\RRbin.hds REPLACE
-RIV  305          SWR_riv_output.riv
+#RIV  305          SWR_riv_output.riv
+RIV  305   SWR_riv_output_filt.riv
 #DATA         301 Results\SWR_riv_output.riv
 DATA         302 Results\Convergence_History.cnv
 #DATA  731 lay1K.dat
